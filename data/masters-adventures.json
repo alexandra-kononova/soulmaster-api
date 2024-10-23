@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Mei Lin",
+    "description": "Hello! I am Master Mei Lin, a passionate Qi Gong master with over 15 years of experience in the art of energy cultivation. My journey in Qi Gong began in my youth, and I have since dedicated my life to mastering its techniques and sharing its benefits with others. I believe in the transformative power of Qi Gong to enhance physical health, emotional balance, and spiritual growth",
+    "text": "Personalized Qi Gong Sessions: Whether you're a beginner or an experienced practitioner, I will guide you through customized sessions that focus on your individual goals, be it stress relief, increased energy, or improved flexibility. Group Classes: Join a community of like-minded individuals in my group classes, where we practice various Qi Gong forms, breathing techniques, and meditation exercises. Together, we will cultivate a sense of harmony and balance. Workshops and Retreats: Experience deeper immersion through my workshops and retreats, designed to enhance your understanding and practice of Qi Gong in a serene environment. Online Sessions: For those who prefer practicing at home, I offer virtual classes that allow you to connect and learn from the comfort of your own space.",
+    "price": 100,
+    "currency": "€",
+    "type": "personal session",
+    "adventures": [
+      {"id": 1,
+        "adventure_name": "Qi Gong",
+        "image": "http://localhost:8080/images/qigong.jpg",
+        "top_description": "Gi Gong, often spelled Qigong, is an ancient Chinese practice that combines physical postures, breathing techniques, and meditation to promote health, balance, and spiritual growth.",
+        "bottom_description": "The term qi refers to vital energy or life force, while gong means skill or cultivation. Practitioners use gentle movements, controlled breathing, and mental focus to cultivate and enhance their qi. Qigong is known for its health benefits, including stress reduction, improved circulation, enhanced flexibility, and overall well-being. It can be practiced by people of all ages and fitness levels, making it accessible and beneficial for many. There are various styles and forms of Qigong, some focusing on health and healing, while others are more martial or spiritual in nature.",
+        "botton_image": "image.png"
+      },
+      {"id": 2,
+        "adventure_name": "Breathwork",
+        "image": "http://localhost:8080/images/breathwork.jpg",
+        "top_description": "Gi Gong, often spelled Qigong, is an ancient Chinese practice that combines physical postures, breathing techniques, and meditation to promote health, balance, and spiritual growth.",
+        "bottom_description": "The term qi refers to vital energy or life force, while gong means skill or cultivation. Practitioners use gentle movements, controlled breathing, and mental focus to cultivate and enhance their qi. Qigong is known for its health benefits, including stress reduction, improved circulation, enhanced flexibility, and overall well-being. It can be practiced by people of all ages and fitness levels, making it accessible and beneficial for many. There are various styles and forms of Qigong, some focusing on health and healing, while others are more martial or spiritual in nature.",
+        "botton_image": "image.png"
+    },
+    {"id": 2,
+        "adventure_name": "Leela Game",
+        "image": "http://localhost:8080/images/leela.jpeg",
+        "top_description": "Gi Gong, often spelled Qigong, is an ancient Chinese practice that combines physical postures, breathing techniques, and meditation to promote health, balance, and spiritual growth.",
+        "bottom_description": "The term qi refers to vital energy or life force, while gong means skill or cultivation. Practitioners use gentle movements, controlled breathing, and mental focus to cultivate and enhance their qi. Qigong is known for its health benefits, including stress reduction, improved circulation, enhanced flexibility, and overall well-being. It can be practiced by people of all ages and fitness levels, making it accessible and beneficial for many. There are various styles and forms of Qigong, some focusing on health and healing, while others are more martial or spiritual in nature.",
+        "botton_image": "image.png"
+    }
+    ]
+  },
+  {
+    "id": 2,
+    "name": " Li Chen",
+    "description": "Greetings! I am Master Li Chen, a certified Qi Gong practitioner with over 20 years of experience in the art of cultivating life energy. I have dedicated my life to mastering the techniques of Qi Gong, and I am passionate about sharing its profound benefits with others. My teachings draw from traditional Chinese practices and are tailored to meet the unique needs of each student.",
+    "text": "Personalized Qi Gong Sessions: Whether you're a beginner or an experienced practitioner, I will guide you through customized sessions that focus on your individual goals, be it stress relief, increased energy, or improved flexibility. Group Classes: Join a community of like-minded individuals in my group classes, where we practice various Qi Gong forms, breathing techniques, and meditation exercises. Together, we will cultivate a sense of harmony and balance. Workshops and Retreats: Experience deeper immersion through my workshops and retreats, designed to enhance your understanding and practice of Qi Gong in a serene environment. Online Sessions: For those who prefer practicing at home, I offer virtual classes that allow you to connect and learn from the comfort of your own space.",
+    "price": 70,
+    "currency": "€",
+    "type": "personal session",
+    "adventures": [
+      {"id": 2,
+        "adventure_name": "Qi Gong",
+        "image": "image.png",
+        "top_description": "Gi Gong, often spelled Qigong, is an ancient Chinese practice that combines physical postures, breathing techniques, and meditation to promote health, balance, and spiritual growth.",
+        "bottom_description": "The term qi refers to vital energy or life force, while gong means skill or cultivation. Practitioners use gentle movements, controlled breathing, and mental focus to cultivate and enhance their qi. Qigong is known for its health benefits, including stress reduction, improved circulation, enhanced flexibility, and overall well-being. It can be practiced by people of all ages and fitness levels, making it accessible and beneficial for many. There are various styles and forms of Qigong, some focusing on health and healing, while others are more martial or spiritual in nature.",
+        "botton_image": "image.png"
+      }
+    ]
+  }
+]    
+
