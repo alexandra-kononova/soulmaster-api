@@ -1,0 +1,23 @@
+[ 
+  {"id": 1,
+    "adventure_name": "Qi Gong",
+    "image": "http://localhost:8080/images/qigong.jpg",
+    "top_description": "Gi Gong, often spelled Qigong, is an ancient Chinese practice that combines physical postures, breathing techniques, and meditation to promote health, balance, and spiritual growth.",
+    "bottom_description": "The term qi refers to vital energy or life force, while gong means skill or cultivation. Practitioners use gentle movements, controlled breathing, and mental focus to cultivate and enhance their qi. Qigong is known for its health benefits, including stress reduction, improved circulation, enhanced flexibility, and overall well-being. It can be practiced by people of all ages and fitness levels, making it accessible and beneficial for many. There are various styles and forms of Qigong, some focusing on health and healing, while others are more martial or spiritual in nature.",
+    "botton_image": "image.png"
+  },
+  {"id": 2,
+    "adventure_name": "Breathwork",
+    "image": "http://localhost:8080/images/breathwork.jpg",
+    "top_description": "Breathwork refers to a variety of practices that involve conscious control of breathing to promote physical, mental, and emotional well-being. These practices can include techniques such as deep breathing, rhythmic breathing, and more structured approaches like Holotropic Breathwork or Pranayama.",
+    "bottom_description": "The term qi refers to vital energy or life force, while gong means skill or cultivation. Practitioners use gentle movements, controlled breathing, and mental focus to cultivate and enhance their qi. Qigong is known for its health benefits, including stress reduction, improved circulation, enhanced flexibility, and overall well-being. It can be practiced by people of all ages and fitness levels, making it accessible and beneficial for many. There are various styles and forms of Qigong, some focusing on health and healing, while others are more martial or spiritual in nature.",
+    "botton_image": "image.png"
+  },
+  {"id": 3,
+    "adventure_name": "Leela Game",
+    "image": "http://localhost:8080/images/leela.jpeg",
+    "top_description": "Gi Gong, often spelled Qigong, is an ancient Chinese practice that combines physical postures, breathing techniques, and meditation to promote health, balance, and spiritual growth.",
+    "bottom_description": "The term qi refers to vital energy or life force, while gong means skill or cultivation. Practitioners use gentle movements, controlled breathing, and mental focus to cultivate and enhance their qi. Qigong is known for its health benefits, including stress reduction, improved circulation, enhanced flexibility, and overall well-being. It can be practiced by people of all ages and fitness levels, making it accessible and beneficial for many. There are various styles and forms of Qigong, some focusing on health and healing, while others are more martial or spiritual in nature.",
+    "botton_image": "image.png"
+  }
+]

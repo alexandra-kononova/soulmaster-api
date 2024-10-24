@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Mei Lin",
+    "image": "http://localhost:8080/images/master.jpg",
+    "description": "Hello! I am Master Mei Lin, a passionate Qi Gong master with over 15 years of experience in the art of energy cultivation. My journey in Qi Gong began in my youth, and I have since dedicated my life to mastering its techniques and sharing its benefits with others. I believe in the transformative power of Qi Gong to enhance physical health, emotional balance, and spiritual growth.",
+    "text": "Personalized Qi Gong Sessions: Whether you're a beginner or an experienced practitioner, I will guide you through customized sessions that focus on your individual goals, be it stress relief, increased energy, or improved flexibility. Group Classes: Join a community of like-minded individuals in my group classes, where we practice various Qi Gong forms, breathing techniques, and meditation exercises. Together, we will cultivate a sense of harmony and balance. Workshops and Retreats: Experience deeper immersion through my workshops and retreats, designed to enhance your understanding and practice of Qi Gong in a serene environment. Online Sessions: For those who prefer practicing at home, I offer virtual classes that allow you to connect and learn from the comfort of your own space.",
+    "price": 100,
+    "currency": "€",
+    "type": "personal session",
+    "adventures": [1,2]
+  },
+  {
+    "id": 2,
+    "name": " Li Chen",
+    "image": "http://localhost:8080/images/master.jpg",
+    "description": "Greetings! I am Master Li Chen, a certified Qi Gong practitioner with over 20 years of experience in the art of cultivating life energy. I have dedicated my life to mastering the techniques of Qi Gong, and I am passionate about sharing its profound benefits with others. My teachings draw from traditional Chinese practices and are tailored to meet the unique needs of each student.",
+    "text": "Personalized Qi Gong Sessions: Whether you're a beginner or an experienced practitioner, I will guide you through customized sessions that focus on your individual goals, be it stress relief, increased energy, or improved flexibility. Group Classes: Join a community of like-minded individuals in my group classes, where we practice various Qi Gong forms, breathing techniques, and meditation exercises. Together, we will cultivate a sense of harmony and balance. Workshops and Retreats: Experience deeper immersion through my workshops and retreats, designed to enhance your understanding and practice of Qi Gong in a serene environment. Online Sessions: For those who prefer practicing at home, I offer virtual classes that allow you to connect and learn from the comfort of your own space.",
+    "price": 120,
+    "currency": "€",
+    "type": "personal session",
+    "adventures": [3]
+  },
+  {
+    "id": 3,
+    "name": "Zhang Wei",
+    "image": "http://localhost:8080/images/master.jpg",
+    "description": "Hello! I am Master Zhang Wei, a devoted Qi Gong master with over 12 years of experience in teaching and practicing this ancient art. My journey in Qi Gong has been transformative, and I am passionate about sharing its benefits with others. I believe that through Qi Gong, we can harmonize our bodies, minds, and spirits to achieve overall well-being.",
+    "text": "Personalized Qi Gong Sessions: Whether you're a beginner or an experienced practitioner, I will guide you through customized sessions that focus on your individual goals, be it stress relief, increased energy, or improved flexibility. Group Classes: Join a community of like-minded individuals in my group classes, where we practice various Qi Gong forms, breathing techniques, and meditation exercises. Together, we will cultivate a sense of harmony and balance. Workshops and Retreats: Experience deeper immersion through my workshops and retreats, designed to enhance your understanding and practice of Qi Gong in a serene environment. Online Sessions: For those who prefer practicing at home, I offer virtual classes that allow you to connect and learn from the comfort of your own space.",
+    "price": 70,
+    "currency": "€",
+    "type": "group session",
+    "adventures": [2]
+  }
+]    
+

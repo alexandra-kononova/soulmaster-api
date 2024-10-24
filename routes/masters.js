@@ -3,10 +3,10 @@ import fs from 'fs/promises';
 import path from 'path';
 
 const router = express.Router();
-const adventureDetailsPath = path.resolve('./data/masters-adventures.json');
+const masterPath = path.resolve('./data/masters.json');
 
 const readMasters = async () => {
-    const data = await fs.readFile(adventureDetailsPath, 'utf8');
+    const data = await fs.readFile(masterPath, 'utf8');
     return JSON.parse(data);
 };
 
